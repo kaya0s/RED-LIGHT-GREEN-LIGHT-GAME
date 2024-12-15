@@ -18,6 +18,9 @@ Red Light: Players must stop completely, and any detected movement
 will lead to elimination.
 
 GAME OUTPUTS
+
+
+
 ![image](https://github.com/user-attachments/assets/09719f8d-b5ec-4a64-a277-9df57b188436)
 ![image](https://github.com/user-attachments/assets/fa0a2fb7-c61a-44f2-8562-db4c8ab42089)
 ![image](https://github.com/user-attachments/assets/307df3f6-c88a-4b03-931b-149c527dc870)
