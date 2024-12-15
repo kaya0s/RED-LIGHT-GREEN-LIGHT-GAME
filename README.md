@@ -1,21 +1,15 @@
-Squidgame: Redlight Greenlight is an inspired project based on a famous Korean 
-show, where the gameplay simulates the iconic “Red Light, Green Light” challenge. 
-However, there will be new mechanics in this version of the game. Players aim to reach 
-the finish line without getting eliminated in the Red Light phase, they must stop whenever 
-the light turns red and wait till the Green Light phase to continue reaching the finish line. 
-The game includes several gameplay mechanics such as controlling the movement of the 
-characters and its timing with other obstacles that increase the difficulty to give more 
-challenges.
+Squidgame: Red Light Green Light is an inspired project based on the famous Korean show, featuring an upgraded take on the iconic “Red Light, Green Light” challenge. This game was developed as part of my Data Structures and Algorithms subject, incorporating fun and creative mechanics to make it more entertaining and relatable.
 
+In this version, I spiced things up by adding a meme-worthy twist—the characters and bosses are based on my classmates! HAHAHA. From hilarious animations to over-the-top reactions, the game combines humor and challenge in a way that keeps players laughing while navigating through increasingly tricky obstacles.
 
 Gameplay Mechanics:
-● Objective: The main goal for players is to reach the finish line while avoiding being 
-caught during the Red Light phase. Any movement during the Red Light phase 
-results in immediate elimination.
+● Objective: Players aim to reach the finish line without being caught during the Red Light phase. Any movement during this phase results in instant elimination.
 ● Phases:
-Green Light: Players can move toward the finish line.
-Red Light: Players must stop completely, and any detected movement 
-will lead to elimination.
+
+Green Light: Players can freely move toward the finish line.
+Red Light: Players must stop completely. Any detected movement leads to elimination.
+● Additional Challenges: The game introduces various obstacles and timing challenges, making the journey to the finish line unpredictable and even more intense.
+
 
 GAME OUTPUTS
 
