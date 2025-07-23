@@ -13,8 +13,6 @@ Red Light: Players must stop completely. Any detected movement leads to eliminat
 
 GAME OUTPUTS
 
-add me on FB: https://www.facebook.com/kaya0s/
-
 
 
 
